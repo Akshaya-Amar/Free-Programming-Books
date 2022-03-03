@@ -1,6 +1,6 @@
 # Free-Programming-Books
 
-I would adding more resources in future. Do follow [Akshaya Amar](https://github.com/Akshaya-Amar) for more updates
+I would be adding more resources in future. Follow [Akshaya Amar](https://github.com/Akshaya-Amar) for more updates
 
 * [.NET Framework Notes for Profesionals](https://books.goalkicker.com/DotNETFrameworkBook/)
 * [Algorithm Notes for Profesionals](https://books.goalkicker.com/AlgorithmsBook/)
