@@ -1,6 +1,8 @@
 # Free-Programming-Books
 
-I would be adding more resources soon. Follow [Akshaya Amar](https://github.com/Akshaya-Amar) for more updates
+I would be adding more respositories and resources soon. Follow [Akshaya Amar](https://github.com/Akshaya-Amar) for more updates.
+
+𝗔𝗹𝗹 𝘁𝗵𝗲𝘀𝗲 𝗯𝗼𝗼𝗸𝘀 𝗮𝗿𝗲 𝘂𝗻𝗼𝗳𝗳𝗶𝗰𝗮𝗹 𝗲𝗯𝗼𝗼𝗸𝘀, 𝘄𝗵𝗶𝗰𝗵 𝗮𝗿𝗲 𝗰𝗿𝗲𝗮𝘁𝗲𝗱 𝗳𝗼𝗿 𝗲𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗽𝘂𝗿𝗽𝗼𝘀𝗲 𝗼𝗻𝗹𝘆 𝗮𝗻𝗱 𝗮𝗿𝗲 𝗻𝗼𝘁 𝗮𝗳𝗳𝗶𝗹𝗶𝗮𝘁𝗲𝗱 𝘄𝗶𝘁𝗵 𝗼𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝗴𝗿𝗼𝘂𝗽(𝘀) 𝗼𝗿 𝗰𝗼𝗺𝗽𝗮𝗻𝘆(𝘀). 𝗔𝗹𝗹 𝘁𝗿𝗮𝗱𝗲𝗺𝗮𝗿𝗸𝘀 𝗮𝗻𝗱 𝗿𝗲𝗴𝗶𝘀𝘁𝗲𝗿𝗲𝗱 𝘁𝗿𝗮𝗱𝗲𝗺𝗮𝗿𝗸𝘀 𝗮𝗿𝗲 𝘁𝗵𝗲 𝗽𝗿𝗼𝗽𝗲𝗿𝘁𝘆 𝗼𝗳 𝘁𝗵𝗲𝗶𝗿 𝗿𝗲𝘀𝗽𝗲𝗰𝘁𝗶𝘃𝗲 𝗼𝘄𝗻𝗲𝗿𝘀.
 
 * [.NET Framework Notes for Profesionals](https://books.goalkicker.com/DotNETFrameworkBook/)
 * [Algorithm Notes for Profesionals](https://books.goalkicker.com/AlgorithmsBook/)
@@ -50,3 +52,7 @@ I would be adding more resources soon. Follow [Akshaya Amar](https://github.com/
 * [VBA Notes for Profesionals](https://books.goalkicker.com/VBABook/)
 * [Visual Basic® .NET Notes for Profesionals](https://books.goalkicker.com/VisualBasic_NETBook/)
 * [Xamarin.Forms Notes for Profesionals](https://books.goalkicker.com/XamarinFormsBook/)
+
+𝗖𝗿𝗲𝗱𝗶𝘁𝘀:
+Thank you wholeheartedly to all the people from Stack Overflow Documentation who helped to provide this content, and
+GoalKicker.com - Free Programming Books
